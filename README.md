@@ -1,6 +1,6 @@
 # Extension for Safari
 
-Safari extension to execute JS code.
+Safari extension to execute JS code on any web page.
 
 ## Built With
 
