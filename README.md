@@ -4,7 +4,7 @@ Safari extension to execute JS code.
 
 ## Built With
 
-* SpriteKit framework used
+* UIKit framework used
 * Swift programming language
 
 ## Authors
